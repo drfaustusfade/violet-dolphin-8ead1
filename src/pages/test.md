@@ -1,5 +1,5 @@
 ---
-title: Welcome to Libris
+title: Welcome to Libris2
 weight: 0
 excerpt: lorem-ipsum
 template: docs
